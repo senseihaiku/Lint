@@ -145,6 +145,13 @@ Dropped 2026-07-23 (the big list). Owner's notes preserved verbatim in quotes. A
 | Rahul1582/portfolio-rahulkp | | read |
 | 0x4m4/hexstrike-ai | section: "security" | read |
 
+## Websites
+
+| Source | Owner's note | Status |
+|---|---|---|
+| thariqs.github.io/html-effectiveness (20 pages) | "Inklusive alla under-sidor" | read → research/thariq-html-effectiveness-and-unknowns.md |
+| thariqs.github.io/html-effectiveness/unknowns (11 pages) | "denna lite mer separata metod/modell" | read → same report. Origin of finding-unknowns-skills CLAUDE.md |
+
 ## Not repos (kept as saved)
 
 - https://github.com/stars/senseihaiku/lists/skills (owner's own GitHub list)
